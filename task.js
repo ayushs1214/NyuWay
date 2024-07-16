@@ -31,11 +31,8 @@ function logResult(isFound, domain) {
     console.log(`Text record validation ${status} for ${domain}.`);
 }
 
-// Configuration
 const domain = 'blackcrypt.co';
 const targetRecord = '8c7b9c07d891aa6745be45cc79e8ef946a7258f8ee476303e0e00d79befb0fe6';
-
-
 
 
 checkDomainRecord(domain, targetRecord);
