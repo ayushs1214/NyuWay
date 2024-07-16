@@ -14,7 +14,7 @@ This project contains a script to verify the presence of a specific TXT record i
 
 ## Installation
 
-1. Clone the repository or download the ZIP file and extract it.
+1. Clone the repository (https://github.com/ayushs1214/NyuWay.git) or download the ZIP file and extract it.
 
 2. Navigate to the project directory:
     cd NyuWay
