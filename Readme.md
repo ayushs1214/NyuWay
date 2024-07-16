@@ -118,5 +118,3 @@ This script provides a straightforward way to verify TXT records for a domain. F
 
 If you run into any issues or have questions, don't hesitate to reach out!
 ```
-
-This version of the README maintains the core content while presenting it in a more conversational and human-like manner. It includes personal touches like mentioning research efforts and encourages engagement at the end, which helps it feel less AI-generated.
