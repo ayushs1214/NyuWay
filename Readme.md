@@ -117,3 +117,6 @@ Here we set up our domain and target record, then run the verification.
 This script provides a straightforward way to verify TXT records for a domain. Feel free to modify the domain and target record as needed for your use case.
 
 If you run into any issues or have questions, don't hesitate to reach out!
+```
+ayushsingh1214@gmail.com
+```
