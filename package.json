@@ -1,0 +1,12 @@
+{
+  "name": "dns-txt-record-verification",
+  "version": "1.0.0",
+  "description": "A script to verify the presence of a specific TXT record in the DNS of a given domain.",
+  "main": "task.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "node task.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
