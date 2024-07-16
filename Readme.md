@@ -1,6 +1,3 @@
-Here's a restructured and more human-like version of your README.md file:
-
-```markdown
 # DNS TXT Record Verification
 
 This project contains a script to verify the presence of a specific TXT record in the DNS of a given domain.
