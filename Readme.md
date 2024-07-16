@@ -19,7 +19,7 @@ I used the following resources during the development of this project:
 
 1. Clone or download this repo:
     ```
-        git clone "https://github.com/ayushs1214/NyuWay.git"
+    git clone "https://github.com/ayushs1214/NyuWay.git"
     ```
 
 2. Navigate to the project folder:
